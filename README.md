@@ -2,7 +2,7 @@
 
 I'm Sofware Enginer
 
-🗼 I’m currently working on NTTDATA COMPANY
+🗼 I’m currently working for NTTDATA COMPANY
 
 📫 How to reach me:
 <div>
