@@ -1,5 +1,8 @@
 ## Hello there! 👋
+<<<<<<< HEAD
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+=======
+>>>>>>> e05ef8fa513f64829ec799996d854223a5de8a92
 
 I'm Sofware Enginer
 
