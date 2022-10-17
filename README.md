@@ -76,9 +76,15 @@ I'm Sofware Enginer
 </a>
 </div>
 <div>
+<a href="https://www.debian.org/index.pt.html">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.opensuse.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://ubuntu.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+</a>
 </div>
 
 ### Hobbies
