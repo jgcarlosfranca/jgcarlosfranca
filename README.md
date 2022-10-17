@@ -90,9 +90,19 @@ I'm Sofware Enginer
 ### Hobbies
 
 <div>
+<a href="https://www.arduino.cc/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+</a>
+<a href="https://inkscape.org/pt-br/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.latex-project.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.mathworks.com/products/matlab/getting-started.html">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.raspberrypi.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+</a>
 </div>
