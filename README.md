@@ -46,6 +46,9 @@ I'm Sofware Enginer
 <a href="https://www.mysql.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
+<a href="https://mariadb.org/">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" width="40" height="40"/>
+</a>
 <a href="https://www.oracle.com/br/database/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </a>
