@@ -2,7 +2,7 @@
 
 I'm Sofware Enginer
 
-🗼 I’m currently working for NTTDATA COMPANY
+🗼 I’m currently working at NTT DATA as a Senior Software Engineer and Systems Architect.
 
 📫 How to reach me:
 
