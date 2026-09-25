@@ -60,7 +60,7 @@ I'm Sofware Enginer
 <div>
 <a href="https://www.electronjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40"/>  </a>
 <a href="https://expressjs.com/pt-br/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="background-color:white;"/>
 </a>
 <a href="https://nodejs.org/en/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
