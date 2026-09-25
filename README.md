@@ -81,7 +81,7 @@ I'm Sofware Enginer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 <a href="https://rust-lang.org/pt-BR/">
-<img src="./Rust_programming_language_black_logo.svg.webp" width="40" height="40"/>
+<img src="./Rust_programming_language_black_logo.svg.webp" width="40" height="40" style="background-color:white;"/>
 </a>
 <a href="https://v2.tauri.app/">
 <img src="./tauri.png" width="40" height="40"/>
