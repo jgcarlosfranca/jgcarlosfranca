@@ -65,6 +65,12 @@ I'm Sofware Enginer
 <a href="https://nodejs.org/en/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </a>
+<a href="https://www.java.com/pt-br/">
+<img src="./Java_programming_language_logo.svg.webp" width="40" height="40"/>
+</a>
+<a href="https://spring.io/">
+<img src="./Spring_Boot.svg.webp" width="40" height="40"/>
+</a>
 <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </a>
