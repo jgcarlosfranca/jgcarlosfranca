@@ -130,6 +130,12 @@ I'm Sofware Enginer
 <a href="https://testing-library.com/docs/react-testing-library/intro/">
 <img src="./testing-library.png" width="40" height="40"/>
 </a>
+<a href="https://junit.org/">
+<img src="./junit-diamond.svg" width="40" height="40"/>
+</a>
+<a href="https://miragejs.com/">
+<img src="./miargeJs.svg" width="40" height="40"/>
+</a>
 </div>
 
 ##### Mobile Dev

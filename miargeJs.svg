@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="280" height="280" viewBox="0 0 280 280"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Paisagem minimalista</title>
+  <desc id="desc">Ícone verde de montanhas e sol sobre fundo grafite.</desc>
+
+  <rect width="280" height="280" fill="#1A1C1D"/>
+
+  <g fill="none"
+     stroke="#05C77E"
+     stroke-width="8.5"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+    <circle cx="173.5" cy="90.5" r="24"/>
+    <path d="M78.5 161.5 119 87.5 166.5 161.5"/>
+    <path d="M147 122 166.5 96.5 203.5 161.5"/>
+    <path d="M59 161.5H221"/>
+    <path d="M92.5 183.5H187.5"/>
+    <path d="M125.5 204.5H154.5"/>
+  </g>
+</svg>
