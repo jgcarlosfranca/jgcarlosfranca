@@ -173,7 +173,7 @@ I'm Sofware Enginer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" width="40" height="40"/>
 </a>
 <a href="https://ubuntu.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+<img src="./UbuntuCoF.svg.webp" width="40" height="40"/>
 </a>
 </div>
 
